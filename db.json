@@ -1,83 +1,83 @@
 {
 "products": [{
   "id": 1,
-  "name": "Golden brush-tailed possum",
-  "categories": "Purple"
+  "name": "Wallaby, tammar",
+  "category": "Aquamarine"
 }, {
   "id": 2,
-  "name": "Loris, slender",
-  "categories": "Teal"
+  "name": "Southern elephant seal",
+  "category": "Orange"
 }, {
   "id": 3,
-  "name": "Albatross, galapagos",
-  "categories": "Fuscia"
+  "name": "Hornbill, leadbeateri's ground",
+  "category": "Pink"
 }, {
   "id": 4,
-  "name": "Roadrunner, greater",
-  "categories": "Pink"
+  "name": "Marshbird, brown and yellow",
+  "category": "Puce"
 }, {
   "id": 5,
-  "name": "Boat-billed heron",
-  "categories": "Crimson"
+  "name": "Rufous-collared sparrow",
+  "category": "Aquamarine"
 }, {
   "id": 6,
-  "name": "Vulture, oriental white-backed",
-  "categories": "Purple"
+  "name": "White-headed vulture",
+  "category": "Mauv"
 }, {
   "id": 7,
-  "name": "Gull, swallow-tail",
-  "categories": "Khaki"
+  "name": "American black bear",
+  "category": "Turquoise"
 }, {
   "id": 8,
-  "name": "Galah",
-  "categories": "Khaki"
+  "name": "Asian lion",
+  "category": "Green"
 }, {
   "id": 9,
-  "name": "American woodcock",
-  "categories": "Teal"
+  "name": "Capybara",
+  "category": "Blue"
 }, {
   "id": 10,
-  "name": "Striped hyena",
-  "categories": "Blue"
+  "name": "Cormorant, little",
+  "category": "Red"
 }, {
   "id": 11,
-  "name": "Stork, saddle-billed",
-  "categories": "Turquoise"
+  "name": "Impala",
+  "category": "Khaki"
 }, {
   "id": 12,
-  "name": "Ant (unidentified)",
-  "categories": "Pink"
+  "name": "Springhare",
+  "category": "Indigo"
 }, {
   "id": 13,
-  "name": "Four-horned antelope",
-  "categories": "Crimson"
+  "name": "Common boubou shrike",
+  "category": "Orange"
 }, {
   "id": 14,
-  "name": "North American red fox",
-  "categories": "Pink"
+  "name": "Goldeneye, common",
+  "category": "Violet"
 }, {
   "id": 15,
-  "name": "Indian leopard",
-  "categories": "Green"
+  "name": "Four-striped grass mouse",
+  "category": "Khaki"
 }, {
   "id": 16,
-  "name": "Peregrine falcon",
-  "categories": "Pink"
+  "name": "Andean goose",
+  "category": "Khaki"
 }, {
   "id": 17,
-  "name": "Quoll, eastern",
-  "categories": "Mauv"
+  "name": "Ocelot",
+  "category": "Violet"
 }, {
   "id": 18,
-  "name": "Barbet, black-collared",
-  "categories": "Fuscia"
+  "name": "Boa, columbian rainbow",
+  "category": "Fuscia"
 }, {
   "id": 19,
-  "name": "Kalahari scrub robin",
-  "categories": "Pink"
+  "name": "Goose, greylag",
+  "category": "Green"
 }, {
   "id": 20,
-  "name": "Heron, goliath",
-  "categories": "Teal"
+  "name": "Oystercatcher, blackish",
+  "category": "Violet"
 }]
 }
