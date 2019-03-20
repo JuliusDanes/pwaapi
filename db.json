@@ -1,85 +1,85 @@
 {
-"products": [
+products : [
 {
   "id": 1,
-  "name": "Red kangaroo",
-  "category": "Green"
+  "name": "Golden brush-tailed possum",
+  "categories": "Purple"
 }, {
   "id": 2,
-  "name": "Purple moorhen",
-  "category": "Crimson"
+  "name": "Loris, slender",
+  "categories": "Teal"
 }, {
   "id": 3,
-  "name": "Goose, greylag",
-  "category": "Mauv"
+  "name": "Albatross, galapagos",
+  "categories": "Fuscia"
 }, {
   "id": 4,
-  "name": "Hoopoe, eurasian",
-  "category": "Turquoise"
+  "name": "Roadrunner, greater",
+  "categories": "Pink"
 }, {
   "id": 5,
-  "name": "Whale, southern right",
-  "category": "Mauv"
+  "name": "Boat-billed heron",
+  "categories": "Crimson"
 }, {
   "id": 6,
-  "name": "Tenrec, tailless",
-  "category": "Puce"
+  "name": "Vulture, oriental white-backed",
+  "categories": "Purple"
 }, {
   "id": 7,
-  "name": "Wallaby, euro",
-  "category": "Red"
+  "name": "Gull, swallow-tail",
+  "categories": "Khaki"
 }, {
   "id": 8,
-  "name": "Mexican beaded lizard",
-  "category": "Teal"
+  "name": "Galah",
+  "categories": "Khaki"
 }, {
   "id": 9,
-  "name": "South American sea lion",
-  "category": "Goldenrod"
+  "name": "American woodcock",
+  "categories": "Teal"
 }, {
   "id": 10,
-  "name": "Capybara",
-  "category": "Aquamarine"
+  "name": "Striped hyena",
+  "categories": "Blue"
 }, {
   "id": 11,
-  "name": "Insect, stick",
-  "category": "Aquamarine"
+  "name": "Stork, saddle-billed",
+  "categories": "Turquoise"
 }, {
   "id": 12,
-  "name": "Antelope, roan",
-  "category": "Purple"
+  "name": "Ant (unidentified)",
+  "categories": "Pink"
 }, {
   "id": 13,
-  "name": "Bird, bare-faced go away",
-  "category": "Green"
+  "name": "Four-horned antelope",
+  "categories": "Crimson"
 }, {
   "id": 14,
-  "name": "Fisher",
-  "category": "Fuscia"
+  "name": "North American red fox",
+  "categories": "Pink"
 }, {
   "id": 15,
-  "name": "Green vine snake",
-  "category": "Teal"
+  "name": "Indian leopard",
+  "categories": "Green"
 }, {
   "id": 16,
-  "name": "White-winged tern",
-  "category": "Red"
+  "name": "Peregrine falcon",
+  "categories": "Pink"
 }, {
   "id": 17,
-  "name": "Weaver, white-browed sparrow",
-  "category": "Aquamarine"
+  "name": "Quoll, eastern",
+  "categories": "Mauv"
 }, {
   "id": 18,
-  "name": "Monkey, rhesus",
-  "category": "Violet"
+  "name": "Barbet, black-collared",
+  "categories": "Fuscia"
 }, {
   "id": 19,
-  "name": "Monkey, red howler",
-  "category": "Green"
+  "name": "Kalahari scrub robin",
+  "categories": "Pink"
 }, {
   "id": 20,
-  "name": "Green heron",
-  "category": "Turquoise"
+  "name": "Heron, goliath",
+  "categories": "Teal"
 }
 ]
 }
