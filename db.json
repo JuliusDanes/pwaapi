@@ -1,0 +1,85 @@
+{
+"products": [
+{
+  "id": 1,
+  "name": "Red kangaroo",
+  "category": "Green"
+}, {
+  "id": 2,
+  "name": "Purple moorhen",
+  "category": "Crimson"
+}, {
+  "id": 3,
+  "name": "Goose, greylag",
+  "category": "Mauv"
+}, {
+  "id": 4,
+  "name": "Hoopoe, eurasian",
+  "category": "Turquoise"
+}, {
+  "id": 5,
+  "name": "Whale, southern right",
+  "category": "Mauv"
+}, {
+  "id": 6,
+  "name": "Tenrec, tailless",
+  "category": "Puce"
+}, {
+  "id": 7,
+  "name": "Wallaby, euro",
+  "category": "Red"
+}, {
+  "id": 8,
+  "name": "Mexican beaded lizard",
+  "category": "Teal"
+}, {
+  "id": 9,
+  "name": "South American sea lion",
+  "category": "Goldenrod"
+}, {
+  "id": 10,
+  "name": "Capybara",
+  "category": "Aquamarine"
+}, {
+  "id": 11,
+  "name": "Insect, stick",
+  "category": "Aquamarine"
+}, {
+  "id": 12,
+  "name": "Antelope, roan",
+  "category": "Purple"
+}, {
+  "id": 13,
+  "name": "Bird, bare-faced go away",
+  "category": "Green"
+}, {
+  "id": 14,
+  "name": "Fisher",
+  "category": "Fuscia"
+}, {
+  "id": 15,
+  "name": "Green vine snake",
+  "category": "Teal"
+}, {
+  "id": 16,
+  "name": "White-winged tern",
+  "category": "Red"
+}, {
+  "id": 17,
+  "name": "Weaver, white-browed sparrow",
+  "category": "Aquamarine"
+}, {
+  "id": 18,
+  "name": "Monkey, rhesus",
+  "category": "Violet"
+}, {
+  "id": 19,
+  "name": "Monkey, red howler",
+  "category": "Green"
+}, {
+  "id": 20,
+  "name": "Green heron",
+  "category": "Turquoise"
+}
+]
+}
