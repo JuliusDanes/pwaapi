@@ -1,0 +1,83 @@
+{
+"products": [{
+  "id": 1,
+  "name": "Golden brush-tailed possum",
+  "categories": "Purple"
+}, {
+  "id": 2,
+  "name": "Loris, slender",
+  "categories": "Teal"
+}, {
+  "id": 3,
+  "name": "Albatross, galapagos",
+  "categories": "Fuscia"
+}, {
+  "id": 4,
+  "name": "Roadrunner, greater",
+  "categories": "Pink"
+}, {
+  "id": 5,
+  "name": "Boat-billed heron",
+  "categories": "Crimson"
+}, {
+  "id": 6,
+  "name": "Vulture, oriental white-backed",
+  "categories": "Purple"
+}, {
+  "id": 7,
+  "name": "Gull, swallow-tail",
+  "categories": "Khaki"
+}, {
+  "id": 8,
+  "name": "Galah",
+  "categories": "Khaki"
+}, {
+  "id": 9,
+  "name": "American woodcock",
+  "categories": "Teal"
+}, {
+  "id": 10,
+  "name": "Striped hyena",
+  "categories": "Blue"
+}, {
+  "id": 11,
+  "name": "Stork, saddle-billed",
+  "categories": "Turquoise"
+}, {
+  "id": 12,
+  "name": "Ant (unidentified)",
+  "categories": "Pink"
+}, {
+  "id": 13,
+  "name": "Four-horned antelope",
+  "categories": "Crimson"
+}, {
+  "id": 14,
+  "name": "North American red fox",
+  "categories": "Pink"
+}, {
+  "id": 15,
+  "name": "Indian leopard",
+  "categories": "Green"
+}, {
+  "id": 16,
+  "name": "Peregrine falcon",
+  "categories": "Pink"
+}, {
+  "id": 17,
+  "name": "Quoll, eastern",
+  "categories": "Mauv"
+}, {
+  "id": 18,
+  "name": "Barbet, black-collared",
+  "categories": "Fuscia"
+}, {
+  "id": 19,
+  "name": "Kalahari scrub robin",
+  "categories": "Pink"
+}, {
+  "id": 20,
+  "name": "Heron, goliath",
+  "categories": "Teal"
+}]
+}
